@@ -46,14 +46,7 @@
 
 ---
 
-## 📂 Featured QA Projects
 
-🔹 Hospital Management System – Manual Testing Project  
-🔹 Auction & Bidding Platform – API & Performance Testing  
-🔹 Admin Dashboard Testing & Validation  
-🔹 Real-World Bug Reports & Test Documentation Samples  
-
----
 
 ## 📊 GitHub Stats
 
@@ -71,7 +64,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="www.linkedin.com/in/fatma-essa-63a658197">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_CV_LINK">
@@ -82,4 +75,3 @@
 ---
 
 ⭐ *"Quality is not just testing. It's building confidence in every release."*
-
